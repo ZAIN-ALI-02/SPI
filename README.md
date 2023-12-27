@@ -102,5 +102,5 @@ This project is open-source and available under the MIT License. You are free to
 
 ## Documentation
 
-[Documentation](https://www.allaboutcircuits.com/technical-articles/spi-serial-peripheral-interface/#:~:text=SPI%20has%20four%20modes%20(0,clock%20cycle%2C%20and%20vice%20versa.)
+[Documentation](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
 
