@@ -1,0 +1,5 @@
+${CORE_ROOT}/src/spi_flash_master.v
+${CORE_ROOT}/src/spi_wrapper.v
+
+
+${CORE_ROOT}/testbech/spi_flash_master_tb.v
