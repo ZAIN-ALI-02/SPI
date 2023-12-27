@@ -1,0 +1,4 @@
+${CORE_ROOT}/src/SPI.v
+${CORE_ROOT}/src/clock.v
+
+${CORE_ROOT}/Testbech/SPI_tb.v
